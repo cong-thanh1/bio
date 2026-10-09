@@ -785,7 +785,7 @@ body {
             rgba(4, 6, 20, .14),
             rgba(4, 6, 20, .14)
         ),
-        url("assets/neon-background.png");
+        url("/background.png");
 
     background-position: center center;
     background-size: cover;
@@ -848,7 +848,7 @@ body:after {
             rgba(9, 13, 39, .35),
             rgba(7, 10, 28, .72)
         ),
-        url("assets/neon-background.png") center 42% / cover;
+        url("/background.png") center 42% / cover;
 }
 
 .cover-placeholder:after {
